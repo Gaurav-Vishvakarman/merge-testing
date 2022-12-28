@@ -1,1 +1,1 @@
-Created in Feature branch having name as createdInFeatureBranch.txt
+Created in feature-branch1 branch having name as createdInFeatureBranch.txt to resolve merge conflicts when merging develop into feature-branch1
